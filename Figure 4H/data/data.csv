@@ -1,0 +1,15 @@
+Index,First author,Year,Animal,Modality ,Acute or chronic study,Pulse width (us),Lowest threshold (nC/phase),Frequency,Charge per second (nC/phase/s),Notes
+1,Urdaneta ,2022,Rat,Behavior,Chronic,200,2.4,320,768,"""The mean charge necessary to elicit a threshold in L5 (6.37 ± 3.93 nC·Phase-1) and L4 (6.49 ± 3.47 nC·Phase-1) was roughly half that in L1 (12.91 ± 6.09 nC·Phase-1) and L6 (10.68 ± 6.66 nC·Phase-1) (Figure 2E)."" 
+Lowest threshold: 6.37 - 3.93 = 2.44"
+2,Zheng,2022,Mouse,Imaging,Chronic,100,0.5,50,25,Stimulation was delivered at 50 Hz varying the amplitude of the cathodic phase from 5uA to 60uA in the same stimulation session (the weekly timepoint).
+3,Flesher,2016,Human,Behavior,Chronic,200,3,100,300,"Mean detection thresholds, measured for 59 electrodes, ranged from 15 to 88 uA (Fig. 2B)."
+4,Hughes,2021,Human,Behavior,Chronic,200,0.9,100,90,"""Over the course of the study, the median detection thresholds decreased by about two-thirds, from 31.5 uA at day 100 (IQR: 22.8–49.6 uA), to 15.8 uA at day 500 (IQR: 9.0–24.9 uA), 12.4 uA at day 1000 (IQR: 8.1–18.0 uA), and 10.4 uA at day 1500 (IQR: 7.4–16.6 uA) (figure 4(a))."" Figure 4C shows lowest threshold to be about 4.5 uA or 0.9 nC"
+5,Fernandez,2021,Human,Behavior,Chronic,170,1.2,300,360,"""Thresholds measured on different single electrodes ranged from 1.2 nC/phase up to 20.4 nC/phase (average threshold of 11.2 nC/phase)"""
+6,Callier,2015,Rhesus monkey,Behavior,Chronic,200,2,300,600,Figure 4C shows minimum of 10 uA
+7,Ferroni ,2017,Rhesus monkey,Behavior,Chronic,200,1,300,300,Figure 1B shows minimum of 5 uA
+8,Ni,2010,Rhesus monkey,Behavior,Chronic,200,1,200,200,Figure 1C shows asymptote of 5 uA
+9,Sombeck,2020,Rhesus monkey,Behavior,Chronic,200,4,330,1320,Figure 3C shows lowest amplitude at 20 uA with frequency of 330 Hz
+10,Schmidt,1996,Human,Behavior,Chronic,200,0.38,200,76,"With CF pulses (F = 200 Hz, PD = 200 |is, IPI = 0, TL = 125 ms), 25 of the microelectrodes had threshold currents below 25 uA and the lowest threshold was 1.9 uA."
+11,Rousche and Normann,1999,Cat,Behavior,Chronic,150,1.5,250,375,"""The average threshold charge/phase required for electrical stimulus detection in each cat was, 8.5, 8.6, and 11.6 nC/phase respectively, with a maximum charge/phase of 26 nC/phase and a minimum of 1.5 nC/phase thresholds were tracked for varying time intervals, and seven electrodes from two cats were tracked for up to 100 days."""
+12,Lycke,2023,Mouse,Behavior,Chronic,167,0.4175,6,2.505,
+13,Lycke,2023,Mouse,Behavior,Chronic,167,0.25,100,25,
